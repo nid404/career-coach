@@ -11,6 +11,6 @@ If she mentions feedback she hasn't logged, remind her. -->
 - Your take: partial — agree on waiting; disagree it's lack of view. Likely the reputational-risk fear. → candidate growth-edge.
 -->
 
-### 2026-06-07 — Manager, early in SBI Life staffing
+### 2026-06-07 — Manager, Sodastream
 - Feedback: "You don't approach problems hypothesis-first."
 - Your take: agree. Lands as true, not just said.
