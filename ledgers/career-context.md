@@ -6,7 +6,7 @@ Four horizons. This is background for almost every session. -->
 
 ## Current situation
 - Associate (1–2 years) at BCG India, generalist.
-- Current engagement: a 6-week diagnostic to improve customer-servicing journeys for SBI health Insurance, starting 2026-06-08.
+- Current engagement: a 6-week diagnostic to improve customer-servicing journeys for SBI life Insurance, starting 2026-06-08.
 - Live: project kicks off now; because it's only 6 weeks, finding a strong next staffing is already on the horizon and is a near-term priority.
 
 ## Short-term (next 1 year)
