@@ -14,6 +14,6 @@ A resisted piece of feedback (the disagree pile) is a candidate edge. -->
 -->
 
 ### Defaults to bottom-up analysis over hypothesis-first
-- Evidence: manager feedback, SBI Life staffing (2026-06-07). One data point so far.
+- Evidence: manager feedback, sodastream staffing (2026-06-07). One data point so far.
 - Status: active
 - Plan: write a one-sentence guess at the answer before opening any data (rep starts SBI Life).
