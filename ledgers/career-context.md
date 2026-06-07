@@ -16,6 +16,7 @@ Four horizons. This is background for almost every session. -->
 
 ## Mid-term (1–3 years)
 - Still open / figuring it out. Clear pull: move out of home, preferably to another country — for work or for studies. Path not yet decided.
+- Two known education options under consideration: (1) MCIT at UPenn — the CS conversion master's; leans into her technical edge, but she's unsure about the employment scope / job-market outcomes it opens. (2) MBA — the broader, more conventional path. Not decided; the relative payoff of each is an open question to work through.
 
 ## Aspiration
 - A search, not a fixed destination: find work she genuinely enjoys and is good at, with a high degree of ownership — something of her own or within a company — that intrinsically motivates her rather than feeling like a chore. Wants to find the thing she can give herself fully to. The coach should help her explore this through real experience and what energizes her, not assume the answer is already known.
