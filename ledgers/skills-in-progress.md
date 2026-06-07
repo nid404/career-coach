@@ -11,3 +11,8 @@ Rule: a growth-edge graduates here once she's deliberately practicing it.
 - Current rep: before each update, write the recommendation as one sentence before any context.
 - Progress: started this week; manager noted one update was "much tighter."
 -->
+
+### Hypothesis-first problem framing
+- Why: directly addresses manager feedback; is the short-term skill she named — fast context-reading + finding the highest-order bit. Core consulting moat.
+- Current rep: before opening any dataset or building any slide on SBI Life, write one sentence — "I bet the answer is X because Y" — then use analysis to confirm or kill it.
+- Progress: starting SBI Life kickoff (2026-06-08).

@@ -10,3 +10,6 @@ Read before responding. -->
 - Don't ask me to rate things 1–10.
 - Lead with the hard question, not a summary of what I said.
 -->
+
+- Be concise; default to ~80% of normal length.
+- For weekly reconcile, output commits grouped by file as copy-paste blocks; no padding.

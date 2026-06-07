@@ -10,3 +10,7 @@ If she mentions feedback she hasn't logged, remind her. -->
 - Feedback: "Strong analysis, but you wait to be asked before sharing a view."
 - Your take: partial — agree on waiting; disagree it's lack of view. Likely the reputational-risk fear. → candidate growth-edge.
 -->
+
+### 2026-06-07 — Manager, early in SBI Life staffing
+- Feedback: "You don't approach problems hypothesis-first."
+- Your take: agree. Lands as true, not just said.
