@@ -14,5 +14,15 @@ Rule: a growth-edge graduates here once she's deliberately practicing it.
 
 ### Hypothesis-first problem framing
 - Why: directly addresses manager feedback; is the short-term skill she named — fast context-reading + finding the highest-order bit. Core consulting moat.
-- Current rep: before opening any dataset or building any slide on SBI Life, write one sentence — "I bet the answer is X because Y" — then use analysis to confirm or kill it.
-- Progress: starting SBI Life kickoff (2026-06-08).
+- Current rep: one-sentence working answer before any ambiguous task or before reading the PL's version — "I bet the answer is X because Y." Extended into spoken form: "here's my read, where am I off?" Wrong is fine; blank is not.
+- Progress: week 2, SBI Life — rep in use. Extended to verbal form with PL.
+
+### Define-done + time-box per chunk
+- Why: counters depth-miscalibration and the pull toward relief-seeking (finishing a chunk vs. finishing the right thing).
+- Current rep: before starting any work chunk, name what done looks like and set a time limit.
+- Progress: introduced week 2.
+
+### Anticipation question before PL-facing moments
+- Why: eliminates preventable errors and signals seniority — thinking one step ahead of the ask.
+- Current rep: before any PL-facing handoff or meeting, ask "what's the next step after this, and what breaks if X fails?" (e.g. print → bring folder; meeting → have screen-share backup).
+- Progress: introduced week 2.

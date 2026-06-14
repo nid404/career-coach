@@ -12,3 +12,9 @@ Eager to update when she recounts a revealing interaction. -->
 - Feedback style: blunt, in the moment, rarely written.
 - Open read (test): values being challenged once she's shown she's done the work first.
 -->
+
+### PL, SBI Life (Project Leader) — HYPOTHESIS, thin read, week 2
+- Working style: gives concrete instructions; makes his own version of a deliverable when he wants something specific.
+- Hot buttons: unknown yet — build over coming weeks.
+- Feedback style: unknown yet.
+- Open read (test): values breadth-vs-depth judgment over uniform thoroughness; the skill he's watching for is knowing which journeys deserve which treatment.

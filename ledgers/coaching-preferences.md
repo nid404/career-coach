@@ -13,3 +13,5 @@ Read before responding. -->
 
 - Be concise; default to ~80% of normal length.
 - For weekly reconcile, output commits grouped by file as copy-paste blocks; no padding.
+- On end-of-session signal ("bye"), give a full close-out: actionable recommendations + proposed ledger updates.
+- Nudge me to narrate what went right, not only what went wrong.
