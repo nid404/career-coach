@@ -14,3 +14,7 @@ If she mentions feedback she hasn't logged, remind her. -->
 ### 2026-06-07 — Manager, Sodastream
 - Feedback: "You don't approach problems hypothesis-first."
 - Your take: agree. Lands as true, not just said.
+
+### 2026-07-12 — PL, SBI Life
+- Feedback: doesn't speak up much in meetings; when given the floor, presents without structure.
+- Your take: agree — fully.

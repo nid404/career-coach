@@ -26,3 +26,13 @@ Rule: a growth-edge graduates here once she's deliberately practicing it.
 - Why: eliminates preventable errors and signals seniority — thinking one step ahead of the ask.
 - Current rep: before any PL-facing handoff or meeting, ask "what's the next step after this, and what breaks if X fails?" (e.g. print → bring folder; meeting → have screen-share backup).
 - Progress: introduced week 2.
+
+### Mechanical pre-send number check
+- Why: directly addresses two live slide errors this week; checklist has been an intention, not yet a running rep.
+- Current rep: before any number goes on a PL-facing slide — (1) does this magnitude match what I'd expect? (2) if secondary source, does it agree directionally with anything I already know, or am I trusting it blind?
+- Progress: introduced this week, untested yet.
+
+### Daily mental math drill
+- Why: numeracy confirmed as skill gap, not state — needs purposeful practice per Peak (focused, uncomfortable, immediate feedback, specific goal).
+- Current rep: 10 min/day mental math drills with immediate self-check.
+- Progress: introduced this week.
